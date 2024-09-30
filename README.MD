@@ -38,7 +38,7 @@ As a result of our efforts, the client now operates a well-optimized LMS that si
 
 ## TECHNOLOGIES USED
 
-- <b>Framwork</b>: Laravel
+- <b>Framework</b>: Laravel
 
 - <b>AI Integration</b>: ChatGPT, Superspeech API
 
