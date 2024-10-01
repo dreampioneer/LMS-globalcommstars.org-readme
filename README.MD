@@ -1,6 +1,6 @@
 <div align="center">
   <img src='./globalcommstars-intro.jpg'>
-  <h1 align='center'> G L O B A L C O M M S T A R S </h1>
+  <h3 align='center'> G L O B A L C O M M S T A R S </h3>
 </div>
 
 <div align="center">
