@@ -1,6 +1,39 @@
-# GLOBALCOMMSTARS
+<div align="center">
+  <img src='./globalcommstars-intro.jpg'>
+  <h3 style="font-size: 30px" align='center'> G L O B A L C O M M S T A R S </h3>
+</div>
 
-## Case Study
+<div align="center">
+  <a href="https://laravel.com/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  </a>
+  <a href="https://platform.openai.com/docs/overview">
+    <img alt="Static Badge" src="https://img.shields.io/badge/OpenAI-33cc33?style=for-the-badge&logo=openai&logoColor=white">
+  </a>
+  <a href="https://www.speechsuper.com/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Superspeech-API-ffff66?style=for-the-badge&logo=Superspeech&logoColor=white">
+  </a>
+  <a href="https://github.com/shailesh-ladumor/laravel-pwa">
+    <img alt="Static Badge" src="https://img.shields.io/badge/PWA-6600ff?style=for-the-badge&logo=PWA&logoColor=white">
+  </a>
+  <a href="https://console.firebase.google.com/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-ff6600?style=for-the-badge&logo=Firebase&logoColor=white">
+  </a>
+  <a href="https://nginx.org/en/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Nginx-009999?style=for-the-badge&logo=Nginx&logoColor=white">
+  </a>
+</div>
+
+<div align="center">
+  <a href="#case-study">CASE STUDY</a> •
+  <a href="#challenge">CHALLENGE</a> •
+  <a href="#solution">SOLUTION</a> •
+  <a href="#results">RESULTS</a> •
+  <a href="#technologies-used">TECHNOLOGIES USED</a> •
+  <a href="#youtube-video">YOUTUBE VIDEO</a>
+</div>
+
+## CASE STUDY
 
 This case study outlines the successful development and implementation of the Global Communication Stars LMS. By leveraging cutting-edge technologies and adhering to Agile methodologies, the team created a scalable and efficient system that enhances English learning for Japanese students, particularly in university settings. The platform empowers teachers to deliver engaging lectures and manage classes and learners effectively.
 
@@ -46,10 +79,10 @@ As a result of our efforts, the client now operates a well-optimized LMS that si
 
 - <b>Development Methodology</b>: Agile
 
-## Youtube Video
+## YOUTUBE VIDEO
 
 [![Watch the video](/globalcommstars.jpg)](https://www.youtube.com/watch?v=G1-xrvXiVhk)
 
-## Live Website
+## LIVE WEBSITE
 <b>Please check the [website](https://globalcommstars.org/)</b>
 
