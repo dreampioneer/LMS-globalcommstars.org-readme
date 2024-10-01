@@ -30,7 +30,8 @@
   <a href="#solution">SOLUTION</a> •
   <a href="#results">RESULTS</a> •
   <a href="#technologies-used">TECHNOLOGIES USED</a> •
-  <a href="#youtube-video">YOUTUBE VIDEO</a>
+  <a href="#youtube-video">YOUTUBE VIDEO</a> •
+  <a href="#live-website">LIVE WEBSITE</a>
 </div>
 
 ## CASE STUDY
